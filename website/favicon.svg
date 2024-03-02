@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 291 291">
+  <g pointer-events="all">
+    <rect x="8" y="8" width="275" height="275" rx="49.5" ry="49.5" style="fill: #fff; stroke: #323739; stroke-width: 16px;"/>
+    <rect x="55.5" y="55.5" width="40" height="180" rx="19.2" ry="19.2" style="fill: #323739; stroke: #323739;"/>
+    <rect x="66.5" y="55.5" width="56" height="30" rx="9.6" ry="9.6" style="fill: #323739; stroke: #323739;"/>
+    <rect x="130.5" y="55.5" width="40" height="105" rx="12.8" ry="12.8" style="fill: #323739; stroke: #323739;"/>
+    <path d="M145.5,55.5h75v40h-75v-40ZM145.5,130.5h75v30h-75v-30Z" style="fill: #323739; stroke: #323739;"/>
+    <rect x="196.5" y="130.5" width="39" height="51" rx="12.48" ry="12.48" style="fill: #323739; stroke: #323739;"/>
+    <path d="M76.5,195.5h69v40h-69v-40Z" style="fill: #323739; stroke: #323739;"/>
+    <rect x="130.5" y="167.5" width="30" height="42.5" rx="11.4" ry="11.4" style="fill: #323739; stroke: #323739;"/>
+    <rect x="86.5" y="86.5" width="43" height="118" rx="6.88" ry="6.88" style="fill: #fff; stroke: #fff;"/>
+    <rect x="161.5" y="86.5" width="43" height="43" rx="6.88" ry="6.88" style="fill: #fff; stroke: #fff;"/>
+    <rect x="161.5" y="161.5" width="43" height="43" rx="6.88" ry="6.88" style="fill: #fff; stroke: #fff;"/>
+    <rect x="205.5" y="156.5" width="30" height="45" rx="14.4" ry="14.4" style="fill: #323739; stroke: #323739;"/>
+    <rect x="205.5" y="55.5" width="30" height="68" rx="14.4" ry="14.4" style="fill: #323739; stroke: #323739;"/>
+    <circle cx="220.5" cy="220.5" r="15" style="fill: #c20000; stroke: #c20000;"/>
+    <rect x="130.5" y="184" width="30" height="51.5" rx="13.8" ry="13.8" style="fill: #323739; stroke: #323739;"/>
+  </g>
+</svg>
